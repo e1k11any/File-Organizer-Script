@@ -2,8 +2,8 @@ import os
 import shutil
 
 # File and folder paths
-titles_file = "D:/cyber/Courses/Linux Adminsrtration/titles.txt"  # Path to your titles file
-files_folder = "D:/cyber/Courses/Linux Adminsrtration/unordered_files"  # Path to your folder with unordered files
+titles_file = "titles.txt"  # Path to your titles file
+files_folder = "unordered_files"  # Path to your folder with unordered files
 output_folder = "ordered_files"  # Folder to save ordered files
 
 # Create output folder if it doesn't exist
